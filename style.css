@@ -144,9 +144,12 @@ img.round{
 .quote-author{
     font-size: larger;
     font-weight: bold;
-    align-self: flex-end;
+    align-self: center;
+    width: 700px;
+    text-align: right;
     margin-top: 8px;
 }
+
 
 /* DIV CLASS: CALL */
 .call {
